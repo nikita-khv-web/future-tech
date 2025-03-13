@@ -9,3 +9,12 @@
 @use './base/fonts';
 @use './base/utils';
 @use './base/globals';
+
+// Components
+@use './components/icon';
+@use './components/button';
+@use './components/burger-button';
+@use './components/logo';
+
+// Layout
+@use './layout/header';
