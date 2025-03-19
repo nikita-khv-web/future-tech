@@ -25,9 +25,13 @@
 @use './components/list';
 @use './components/card';
 @use './components/tile';
+@use './components/person-card';
+@use './components/blog-actions';
+@use './components/blog-card';
 
 // Layout
 @use './layout/header';
 @use './layout/footer';
 @use './layout/hero';
 @use './layout/section';
+@use './layout/tabs';
